@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\bin\Debug\net6.0\Value_ReferanceType_Ref_Out.exe
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\bin\Debug\net6.0\Value_ReferanceType_Ref_Out.deps.json
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\bin\Debug\net6.0\Value_ReferanceType_Ref_Out.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\bin\Debug\net6.0\Value_ReferanceType_Ref_Out.dll
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\bin\Debug\net6.0\Value_ReferanceType_Ref_Out.pdb
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.dll
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\refint\Value_ReferanceType_Ref_Out.dll
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.pdb
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\Value_ReferanceType_Ref_Out.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\Value_ReferanceType_Ref_Out\Value_ReferanceType_Ref_Out\obj\Debug\net6.0\ref\Value_ReferanceType_Ref_Out.dll
